@@ -34,3 +34,7 @@ The application uses a Linear Regression model trained on the California Housing
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Application Preview
+![App Screenshot](Screenshot_app_home.png)
+## Project Overview
+This project predicts house prices using Machine Learning.
